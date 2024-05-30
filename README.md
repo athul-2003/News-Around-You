@@ -10,7 +10,8 @@
 
 ## Screenshot
 
-![News Around You Screenshot](screenshot.png)
+![Screenshot 2024-05-30 091512](https://github.com/athul-2003/News-Around-You/assets/128019369/e993b3b0-b055-4d32-a96f-0fde066e696f)
+
 
 ## Installation
 
